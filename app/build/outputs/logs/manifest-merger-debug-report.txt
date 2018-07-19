@@ -1,151 +1,128 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
-MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/ffe5e45d52a2867412191301d08c830d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/prasanth/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8db2e8a6858bab08f8691c1974fafd56/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/2c871b6f171bd09553bab1e7aa400b1b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/bd21798bacd6694c88e036796e9e57dd/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/dbec40dce73143c0df14d36253dc11fa/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/bb7cd3663fd764274066cb19d10154de/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/2dcffc04b450616bd6875b8c7cacc3a0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/139320ca1305b1c862ad4939cfed250a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/7c994b373dd4c37b5e9270d077bd839f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/5c2d6ef792cfe7b0f779332001f69381/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/f6c5f41757168bb3f35e26320bd6f6c5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/e92c486d38764189cf8992e5e6ef642a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/d6434c480b673b5ed045e06136111f94/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/f06fe5b2b9d7fe69613c0b53d23a55e7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/635502ee4df7c2fc7ea29dfdd1c835c2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/cecbe3791c8a125a7db24069deb67e43/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/87a20cccc8c8fd7583f849f24c5a716b/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/prasanth/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d85896609972d58c2e9cec0f444c107c/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/a5a0d76768a88abc22ed7b53c8d9a1ac/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/b587fdfdf4a1f82ba384647216788491/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/844e5d8bac8bdff957eb128cf00f5721/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/37c70e8fef5a3067e9562d0bb7099e54/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/prasanth/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/01fcb32b75d00ab78cb04e78ff200bbc/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/prasanth/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0e205a5cf0aa5904d146ab409504dab0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /home/prasanth/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0d4ecc76ed0e693f6722f0a194577be2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/74c89626dc3bbd6dfe48b50a7a4d2fd0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.databinding:adapters:3.1.3] /Users/rahul/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/9970f6d4c9337472a042383befd3cf29/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.3] /Users/rahul/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/ba9e7bdc827016203ad1b7dba2c8fe5b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8ae339caf16644d55bfc27ee9d4e78e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4f9a0cf672d1bfba5465bf66bbab8d90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rahul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/38f60e2af47de19e1976b3533990bc14/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/759b2a5bf10d64c66227a0e28c40b151/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/57deb682468517126ad7a974060c2aea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dcc393a8e731522371a276c4a335b7e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/257ae7cbbd8191c6293a98e74667cab5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/41374673bec2cfc6388a6922032bd36d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/34ce4e4ad46af54d7407642c1bdcde33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7d4ef187b7b079041b81609a09553853/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4d7d765c2b454845d872f35a309ca7a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0e582722e4926098bd2a7daa5c4969ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/865fb016cf0611133265a2e3ec82369b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/rahul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d5a6477af8698370d3296c5ec70094e8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/rahul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/abdc56426e0cd950e6f573e7fb9e0490/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/rahul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f799429bbb3704a799c37e60e290018a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/rahul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ff9b33b8558ecaa88c430da79fb4fbaf/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:3:5-43
-		INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
-		INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:4:1-79
+	android:name
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:4:18-60
 application
-ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/prasanth/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8db2e8a6858bab08f8691c1974fafd56/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/prasanth/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8db2e8a6858bab08f8691c1974fafd56/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/cecbe3791c8a125a7db24069deb67e43/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/cecbe3791c8a125a7db24069deb67e43/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/a5a0d76768a88abc22ed7b53c8d9a1ac/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/a5a0d76768a88abc22ed7b53c8d9a1ac/AndroidManifest.xml:22:5-23:19
-	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/cecbe3791c8a125a7db24069deb67e43/AndroidManifest.xml:22:18-91
+ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rahul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/38f60e2af47de19e1976b3533990bc14/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rahul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/38f60e2af47de19e1976b3533990bc14/AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.example.prasanth.wellthy.MainActivity
-ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
-INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/ffe5e45d52a2867412191301d08c830d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/ffe5e45d52a2867412191301d08c830d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/prasanth/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8db2e8a6858bab08f8691c1974fafd56/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/prasanth/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/8db2e8a6858bab08f8691c1974fafd56/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/2c871b6f171bd09553bab1e7aa400b1b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/2c871b6f171bd09553bab1e7aa400b1b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/bd21798bacd6694c88e036796e9e57dd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/bd21798bacd6694c88e036796e9e57dd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/dbec40dce73143c0df14d36253dc11fa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/dbec40dce73143c0df14d36253dc11fa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/bb7cd3663fd764274066cb19d10154de/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/bb7cd3663fd764274066cb19d10154de/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/2dcffc04b450616bd6875b8c7cacc3a0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/2dcffc04b450616bd6875b8c7cacc3a0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/139320ca1305b1c862ad4939cfed250a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/139320ca1305b1c862ad4939cfed250a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/7c994b373dd4c37b5e9270d077bd839f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/7c994b373dd4c37b5e9270d077bd839f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/5c2d6ef792cfe7b0f779332001f69381/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/5c2d6ef792cfe7b0f779332001f69381/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/f6c5f41757168bb3f35e26320bd6f6c5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/f6c5f41757168bb3f35e26320bd6f6c5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/e92c486d38764189cf8992e5e6ef642a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/e92c486d38764189cf8992e5e6ef642a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/d6434c480b673b5ed045e06136111f94/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/d6434c480b673b5ed045e06136111f94/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/f06fe5b2b9d7fe69613c0b53d23a55e7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/f06fe5b2b9d7fe69613c0b53d23a55e7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/635502ee4df7c2fc7ea29dfdd1c835c2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/635502ee4df7c2fc7ea29dfdd1c835c2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/cecbe3791c8a125a7db24069deb67e43/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/cecbe3791c8a125a7db24069deb67e43/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/87a20cccc8c8fd7583f849f24c5a716b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/87a20cccc8c8fd7583f849f24c5a716b/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/prasanth/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d85896609972d58c2e9cec0f444c107c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/prasanth/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d85896609972d58c2e9cec0f444c107c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/a5a0d76768a88abc22ed7b53c8d9a1ac/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/a5a0d76768a88abc22ed7b53c8d9a1ac/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/b587fdfdf4a1f82ba384647216788491/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/b587fdfdf4a1f82ba384647216788491/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/844e5d8bac8bdff957eb128cf00f5721/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/844e5d8bac8bdff957eb128cf00f5721/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/37c70e8fef5a3067e9562d0bb7099e54/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/37c70e8fef5a3067e9562d0bb7099e54/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/prasanth/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/01fcb32b75d00ab78cb04e78ff200bbc/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/prasanth/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/01fcb32b75d00ab78cb04e78ff200bbc/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/prasanth/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0e205a5cf0aa5904d146ab409504dab0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/prasanth/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0e205a5cf0aa5904d146ab409504dab0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/prasanth/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0d4ecc76ed0e693f6722f0a194577be2/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/prasanth/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0d4ecc76ed0e693f6722f0a194577be2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/74c89626dc3bbd6dfe48b50a7a4d2fd0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0-alpha3] /home/prasanth/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/74c89626dc3bbd6dfe48b50a7a4d2fd0/AndroidManifest.xml:20:5-44
-INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
-INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.3] /Users/rahul/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/9970f6d4c9337472a042383befd3cf29/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.3] /Users/rahul/.gradle/caches/transforms-1/files-1.1/adapters-3.1.3.aar/9970f6d4c9337472a042383befd3cf29/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.3] /Users/rahul/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/ba9e7bdc827016203ad1b7dba2c8fe5b/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.3] /Users/rahul/.gradle/caches/transforms-1/files-1.1/library-3.1.3.aar/ba9e7bdc827016203ad1b7dba2c8fe5b/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8ae339caf16644d55bfc27ee9d4e78e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8ae339caf16644d55bfc27ee9d4e78e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4f9a0cf672d1bfba5465bf66bbab8d90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4f9a0cf672d1bfba5465bf66bbab8d90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rahul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/38f60e2af47de19e1976b3533990bc14/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/rahul/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/38f60e2af47de19e1976b3533990bc14/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/759b2a5bf10d64c66227a0e28c40b151/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/759b2a5bf10d64c66227a0e28c40b151/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/57deb682468517126ad7a974060c2aea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/57deb682468517126ad7a974060c2aea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dcc393a8e731522371a276c4a335b7e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dcc393a8e731522371a276c4a335b7e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/257ae7cbbd8191c6293a98e74667cab5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/257ae7cbbd8191c6293a98e74667cab5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/41374673bec2cfc6388a6922032bd36d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/41374673bec2cfc6388a6922032bd36d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/34ce4e4ad46af54d7407642c1bdcde33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/34ce4e4ad46af54d7407642c1bdcde33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7d4ef187b7b079041b81609a09553853/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7d4ef187b7b079041b81609a09553853/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4d7d765c2b454845d872f35a309ca7a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4d7d765c2b454845d872f35a309ca7a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0e582722e4926098bd2a7daa5c4969ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0e582722e4926098bd2a7daa5c4969ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/865fb016cf0611133265a2e3ec82369b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/rahul/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/865fb016cf0611133265a2e3ec82369b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/rahul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d5a6477af8698370d3296c5ec70094e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/rahul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d5a6477af8698370d3296c5ec70094e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/rahul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/abdc56426e0cd950e6f573e7fb9e0490/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/rahul/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/abdc56426e0cd950e6f573e7fb9e0490/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/rahul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f799429bbb3704a799c37e60e290018a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/rahul/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f799429bbb3704a799c37e60e290018a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/rahul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ff9b33b8558ecaa88c430da79fb4fbaf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/rahul/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ff9b33b8558ecaa88c430da79fb4fbaf/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
-		INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
-		ADDED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
-		INJECTED from /home/prasanth/Downloads/Wellthy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahul/Desktop/Wellthy/app/src/main/AndroidManifest.xml

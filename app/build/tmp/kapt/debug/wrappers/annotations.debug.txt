@@ -1,0 +1,29 @@
+p com.example.prasanth.wellthy 0
+d 0/MainActivity
+d 0/LoadImageKt
+a android.databinding.BindingAdapter 0
+m 0 0/LoadImageKt loadImage
+p com.example.prasanth.wellthy.Model 1
+d 1/User
+a org.jetbrains.annotations.NotNull 1
+f 1 1/User firstName
+m 1 1/User getFirstName
+f 1 1/User lastName
+m 1 1/User getLastName
+f 1 1/User imageUrl
+m 1 1/User getImageUrl
+f 1 1/User tagline
+m 1 1/User getTagline
+p com.example.prasanth.wellthy.Viewmodels 2
+d 2/UserViewModel
+a android.databinding.Bindable 2
+m 2 2/UserViewModel getName
+m 1 2/UserViewModel getName
+m 2 2/UserViewModel getAge
+m 1 2/UserViewModel getAge
+m 2 2/UserViewModel getGender
+m 1 2/UserViewModel getGender
+m 2 2/UserViewModel getImageUrl
+m 1 2/UserViewModel getImageUrl
+m 2 2/UserViewModel getTagline
+m 1 2/UserViewModel getTagline
