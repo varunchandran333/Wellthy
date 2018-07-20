@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Tab1">Connect</string>
+    <string name="Tab2">Discover</string>
+    <string name="Tab3">Chat</string>
+</resources>
